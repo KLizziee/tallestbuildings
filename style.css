@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content {
+    width: 70%;
+    margin-left: 15%;
+}
+#l5 {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/lotte.png);
+    margin-bottom: 30px;
+}
+#l4 {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/pingannnn.png);
+    margin-bottom: 30px;
+}
+#l3 {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/makkahhh.png);
+    margin-bottom: 30px;
+}
+#l2 {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/shang.png);
+    margin-bottom: 30px;
+}
+#l1 {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/burkj.png);
+}
+#nav {
+    background-color: #EDEDEF;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+#content img {
+    margin-bottom: 30px;
+}
+#l5 p #imagen1 {
+    float: left;
+    padding-right: 20px;
+}
+#l4 p img {
+    float: right;
+    padding-left: 20px;
+}
+#l3 p img {
+    padding-right: 20px;
+    float: left;
+}
+
+
+#l5 p #imagen1 {
+}
+#l2 p img {
+    padding-left: 20px;
+    float: right;
+}
+#l1 p img {
+    padding-right: 20px;
+    float: left;
+}
